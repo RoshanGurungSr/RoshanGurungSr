@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Roshan Gurung
 - 🔭 I’m currently enrolled into MSc. Computer Science at [Lakehead University](https://www.lakeheadu.ca/). :triumph: Yaee!!! Its my last semester.
-- :star: I like to explore the latest developments in ML and share my learnings on my personal blog [here](https://gurungroshan.com/).
-- :speech_balloon: You can connect with me here at [Linkedin](www.linkedin.com/in/roshan-gurung-learning)
+- :star: I like to explore the latest developments in ML and share my learnings on my personal blog [here](https://gurungroshan.com/). Follow my blog and github for my recent work.
+- :speech_balloon: Feel free to connect with me here at [Linkedin](www.linkedin.com/in/roshan-gurung-learning)
 <!--
 **RoshanGurungSr/RoshanGurungSr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
