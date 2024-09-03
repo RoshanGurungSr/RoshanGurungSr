@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Roshan Gurung
-- 🔭 I’m recently completed my MSc. Computer Science at [Lakehead University](https://www.lakeheadu.ca/). :triumph: Yaee!!!
+- 🔭 I recently completed my MSc. Computer Science at [Lakehead University](https://www.lakeheadu.ca/). :triumph: Yaee!!! Now, my next chapter now begins.
 - :star: I like to explore the latest developments in ML and share my learnings on my personal blog [here](https://gurungroshan.com/). Follow my blog and github for my recent work.
 - :speech_balloon: Feel free to connect with me here at [Linkedin](www.linkedin.com/in/roshan-gurung-learning)
 <!--
