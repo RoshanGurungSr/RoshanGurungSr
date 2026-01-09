@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Roshan Gurung
-- 🔭 I recently completed my MSc. Computer Science at [Lakehead University](https://www.lakeheadu.ca/). :triumph: Yaee!!! Now, my next chapter begins.
+- 🔭 I am curently working as AI/LLM Engineer for one of cool social media company (🤫). Previously, I have experience as Full Stack ML Engineer.
 - :star: I like to explore the latest developments in ML and share my learnings on my personal blog [here](https://gurungroshan.com/). Follow my blog and github for my recent work.
 - :speech_balloon: Feel free to connect with me here at [Linkedin](www.linkedin.com/in/roshan-gurung-learning)
 <!--
